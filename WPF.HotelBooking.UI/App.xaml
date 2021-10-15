@@ -1,0 +1,9 @@
+﻿<Application x:Class="WPF.HotelBooking.UI.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WPF.HotelBooking.UI"
+             Startup="OnStartUp">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
